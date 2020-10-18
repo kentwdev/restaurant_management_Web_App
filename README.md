@@ -10,4 +10,4 @@
 3: run http://localhost/restaurant_management_Web_App/ on your web browser
 
 
-Importing records to be done from CSV files straight to the database.
+Importing records can also be done from CSV files straight to the database.
